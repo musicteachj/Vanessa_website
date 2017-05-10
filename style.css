@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+img {
+	image-rendering: auto !important;
+  image-rendering: crisp-edges !important;
+}
+
 #header {
 	float: left;
 	width: 100%;
@@ -22,6 +27,11 @@
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
+.headername h4 {
+	font-style: italic;
+	margin-top: 8px;
+}
+
 #middle {
 	float: left;
 	width: 100%;
@@ -31,24 +41,27 @@
     background-repeat: no-repeat;
     border-top: 3px solid black;
     border-bottom: 5px solid black;
+    image-rendering: auto !important;
+  image-rendering: crisp-edges !important;
+  
 }
 
 .box1 {
 	float: left;
-	height: 400px;
+	height: 420px;
 	width: 340px;
 	background-color: white;
-	margin-top: 30px;
+	margin-top: 26px;
 	margin-left: 240px;
 	border: 2px solid black;
 }
 
 .box2 {
 	float: right;
-	height: 400px;
+	height: 420px;
 	width: 340px;
 	background-color: white;
-	margin-top: 30px;
+	margin-top: 26px;
 	margin-right: 240px;
 	border: 2px solid black;
 }
@@ -72,7 +85,7 @@
 	float: left;
 	border-top: 2px solid black;
 	padding-top: 6px;
-	font-size: 17px;
+	font-size: 14px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
 }
