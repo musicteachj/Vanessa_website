@@ -60,6 +60,10 @@
 	background-color: green;
 }
 
+.image img {
+	margin: 0;
+}
+
 .desc {
 	margin: 0px 10px 10px 10px;
 	background-color: white;
