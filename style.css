@@ -12,13 +12,13 @@ img {
 	float: left;
 	width: 100%;
 	height: 112px;
-	background-color: white;
+	background-color: #057200;
 }
 
 .headername {
 	color: white;
 	text-align: center;
-	background-color: blue;
+	background-color: ;
 	width: 700px;
 	margin-top: 13px;
 	margin-left: 420px;
@@ -35,12 +35,12 @@ img {
 #middle {
 	float: left;
 	width: 100%;
-	height: 474px;
-	background: url(images/nature1.jfif) no-repeat center center fixed;
+	height: 514px;
+	background: url(images/new2.jpg) no-repeat center center fixed;
 	background-size: 100% 100%;
     background-repeat: no-repeat;
-    border-top: 3px solid black;
-    border-bottom: 5px solid black;
+    border-top: 3px solid #2D2F00;
+    border-bottom: 5px solid #2D2F00;
     image-rendering: auto !important;
   image-rendering: crisp-edges !important;
   
@@ -51,9 +51,9 @@ img {
 	height: 420px;
 	width: 340px;
 	background-color: white;
-	margin-top: 26px;
+	margin-top: 36px;
 	margin-left: 240px;
-	border: 2px solid black;
+	border: 2px solid #3B3600;
 }
 
 .box2 {
@@ -61,16 +61,16 @@ img {
 	height: 420px;
 	width: 340px;
 	background-color: white;
-	margin-top: 26px;
+	margin-top: 36px;
 	margin-right: 240px;
-	border: 2px solid black;
+	border: 2px solid #3B3600;
 }
 
 .image {
 	width: 320px;
 	height: 250px;
 	margin: 10px;
-	background-color: green;
+	background-color: yellow;
 }
 
 .image img {
@@ -83,18 +83,19 @@ img {
 	width: 320px;
 	height: 110px;
 	float: left;
-	border-top: 2px solid black;
+	border-top: 2px solid #3B3600;
 	padding-top: 6px;
 	font-size: 14px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
+	color: #3B3600;
 }
 
 #footer {
 	float: left;
 	width: 100%;
-	height: 140px;
-	background-color: blue;
+	height: 100px;
+	background-color: #057200;
 }
 
 .footertitle {
@@ -103,7 +104,7 @@ img {
 	margin-top: 10px;
 	margin-left: 680px;
 	color: white;
-	background-color: green;
+	background-color: ;
 	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
@@ -111,21 +112,23 @@ img {
 .about {
 	height: 34px;
 	width: 100px;
-	background-color: green;
+	background-color: ;
 	color: white;
 	float: left;
 	margin-left: 300px;
 	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-top: -20px;
 }
 
 .contact {
 	height: 34px;
 	width: 100px;
-	background-color: green;
+	background-color: ;
 	color: white;
 	float: right;
 	margin-right: 300px;
 	text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
+	margin-top: -20px;
 }
